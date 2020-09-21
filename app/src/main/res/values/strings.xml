@@ -2,7 +2,7 @@
     <string name="app_name">CV</string>
 
     <string name="contact_text">
-        <b>Igor Glozman</b>\n
+        <b><i>Igor Glozman</i></b>\n
         <i>iglozman@yandex.ru\n
         +7-905-728-44-23</i>
     </string>
