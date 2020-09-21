@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CV</string>
+
+    <string name="contact_text">
+        <b>Igor Glozman</b>\n
+        <i>iglozman@yandex.ru\n
+        +7-905-728-44-23</i>
+    </string>
+
+    <string name="education"><b>Education:</b>\n
+        <i>BSc Management in technical systems</i>/n
+        at Russian University of Transport,/n Moscow (2015-2019)
+    </string>
+
+    <string name="experience">
+        <b>Experience</b>\n
+        <i>2018 to 2020 Software Engineer – «NIIAS»(RZD)</i>\n
+        <ul>
+            <li>Project development for railway safety based on IoT</li>\n
+            <li>Preparing of technical documentation</li>\n
+            <li>Creating Client-Server application</li>\n
+        </ul>
+    </string>
+
+    <string name="languages">
+        <b>Languages</b>\n
+        Russian – native,English – pre - intermediate (speaking; reading; writing)
+    </string>
+
+    <string name="about_me">
+        <b>About me</b>\n
+        <ul>
+            <li>Knowledge of: MS Office, Access, Python, C#, Delphi, Assembler, OOP</li>\n
+            <li>Experience of: Reverse engineering, MySQL, Linux, Web scraping</li>\n
+            <li>My skills include: internet fluency, creativity, problem-solving, multi-tasking, organized</li>\n
+            <li>I have a BSc degree in Management in technical systems</li>\n
+        </ul>
+    </string>
+</resources>
